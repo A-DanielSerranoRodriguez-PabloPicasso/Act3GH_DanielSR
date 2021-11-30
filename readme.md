@@ -14,4 +14,7 @@ Ha siduo subido y gestionado a través de *eGit*, y en su estado actual necesita
 
 ```
 Seguramente no se haga ya que es el fin de la actividad
+
 ```
+comentario constructivo de jhon.
+No quiero ser mala persona pero  hay maneras mas simples de contar el numero de veces que se repite un número.
